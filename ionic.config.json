@@ -1,4 +1,5 @@
 {
+  "id": "c443df4c",
   "name": "testApp",
   "integrations": {
     "capacitor": {}
